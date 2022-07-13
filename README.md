@@ -19,3 +19,4 @@
 </div>
 
 ##
+![Snake animation](https://github.com/elisiani/elisiani/blob/output/github-contribution-grid-snake.svg)
